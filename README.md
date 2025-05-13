@@ -1,5 +1,8 @@
 # LXQt LY Login Manager Switch
 
+[![Release](https://img.shields.io/github/v/release/SpeedyCoder1192/legacysupport-archlinux)](https://github.com/SpeedyCoder1192/legacysupport-archlinux/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A simple script to replace SDDM with [LY](https://github.com/nullgemm/ly) on **LXQt-based Ubuntu systems**, and configure LXQt to auto-start after login via TTY.
 
 LY is a lightweight, terminal-based login manager — perfect for minimal setups or users who prefer keyboard-driven workflows.
