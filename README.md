@@ -39,19 +39,10 @@ This script is designed for LXQt-based systems using `systemd`.
 
 ➡️ [Download the latest release script (ver\_release)](https://github.com/SpeedyCoder1192/lylogin_lxqt/releases/download/ver_release/lylogin_lxqt.sh)
 
-Then run:
-
-```bash
-chmod +x lylogin_lxqt.sh
-./lylogin_lxqt.sh
-```
-
 **Option 2 – Command Line:**
 
 ```bash
 wget https://github.com/SpeedyCoder1192/lylogin_lxqt/releases/download/ver_release/lylogin_lxqt.sh
-chmod +x lylogin_lxqt.sh
-./lylogin_lxqt.sh
 ```
 
 ---
@@ -61,10 +52,8 @@ chmod +x lylogin_lxqt.sh
 Run the following commands:
 
 ```bash
-git clone https://github.com/yourusername/lxqt-ly-switch.git
-cd lxqt-ly-switch
-chmod +x switch-to-ly-lxqt.sh
-./switch-to-ly-lxqt.sh
+chmod +x lylogin_lxqt.sh
+./lylogin_lxqt.sh
 ```
 
 After the script finishes, reboot to start using LY:
