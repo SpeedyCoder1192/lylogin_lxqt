@@ -38,6 +38,7 @@ This script is designed for LXQt-based systems using `systemd`.
 **Option 1 – Recommended:**
 
 ➡️ [Download the latest release script (ver\_release)] (https://github.com/SpeedyCoder1192/lylogin_lxqt/releases/download/ver_release/lylogin_lxqt.sh)
+
 Then run:
 
 ```bash
