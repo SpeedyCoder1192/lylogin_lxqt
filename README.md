@@ -33,6 +33,28 @@ This script is designed for LXQt-based systems using `systemd`.
 
 ---
 
+## 📥 Download
+
+**Option 1 – Recommended:**
+
+➡️ [Download the latest release script (ver\_release)] (https://github.com/SpeedyCoder1192/lylogin_lxqt/releases/download/ver_release/lylogin_lxqt.sh)
+Then run:
+
+```bash
+chmod +x lylogin_lxqt.sh
+./lylogin_lxqt.sh
+```
+
+**Option 2 – Command Line:**
+
+```bash
+wget https://github.com/SpeedyCoder1192/lylogin_lxqt/releases/download/ver_release/lylogin_lxqt.sh
+chmod +x lylogin_lxqt.sh
+./lylogin_lxqt.sh
+```
+
+---
+
 ## 🚀 Usage
 
 Run the following commands:
